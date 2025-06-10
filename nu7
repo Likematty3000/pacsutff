@@ -609,7 +609,7 @@
 						["AngleOffset"] = Angle(0, 0, 0),
 						["BoneMerge"] = false,
 						["Color"] = Vector(1, 1, 1),
-						["Position"] = Vector(5.3860998153687, 0.0419921875, -2.6330299377441),
+						["Position"] = Vector(5.5859999656677, 0.0419921875, -2.6330299377441),
 						["ClassName"] = "model2",
 						["Brightness"] = 1,
 						["Hide"] = false,
